@@ -1,0 +1,8 @@
+# Ignore MacOS system file
+.DS_Store
+
+# Ignore IntelliJ project settings
+.idea/
+
+# Ignore MySQL runtime data
+api-gateway/volume-data/mysql_keycloak_data/
